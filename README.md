@@ -16,13 +16,14 @@ The primary point of contact for all partner (trade-in programs) relationships w
 
 Marketing responsibility includes the design, execution, and implementation of all internal/external marketing materials for print/digital distribution. Projects include, but not limited to websites (corporate, ecommerce, and trade-in), one sheets, brochures, presentations, retractable banners, promotional items, and tradeshow displays. Create marketing strategy, allocate budget, and identify key performance indicators to track success of individual initiatives and overall return on investment.
 
-**AMG Media Group, Inc. (Strategic Partners) / Rancho Cordova, CA / Jan. 2008 - Dec. 2014**
-
+**AMG Media Group, Inc. (Strategic Partners) / Rancho Cordova, CA**  
+**Jan. 2008 - Dec. 2014**  
 **Art Director**
 
 Guided digital and print projects while collaborating with agency director, designers, developers and copywriters. Successfully crafted cohesive brand message across all targeted print and digital delivery methods. Intensely focused on digital output encompassing micro-site development, CMS platforms, HTML email marketing, banner ads, UI/UX design, landing pages, and custom website design. Used strong communication skills to manage international programmers by Skype, email, and git development repository. Mentored junior designers on staff by providing opportunities to lead projects while remaining engaged and involved in the creative process.
 
-**Graphic & Web Designer / Apr. 2006 - Jan. 2008**
+**Graphic & Web Designer**  
+**Apr. 2006 - Jan. 2008**
 
 Created dynamic work including: print, web, environmental signage, corporate identity, and promotional material. Ensured deadlines were met and quality standards upheld while managing vendor relationships. Worked closely with each client’s internal marketing director to implement consistent branding in all advertising.
 
