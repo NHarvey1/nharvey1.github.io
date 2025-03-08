@@ -28,6 +28,49 @@ Guided digital and print projects while collaborating with agency director, desi
 Created dynamic work including: print, web, environmental signage, corporate identity, and promotional material. Ensured deadlines were met and quality standards upheld while managing vendor relationships. Worked closely with each client’s internal marketing director to implement consistent branding in all advertising.
 
 ---
+## Software
+
+- Adobe Creative Cloud (Ps, Ai, Xd, etc.)
+- Canva
+- Sublime Text
+- Version control with git
+- InVision
+- Monday CRM
+- Slack
+- Jira
+- Asana
+- Basecamp
+- Microsoft (Word, Excel and PowerPoint)
+- Apple (Keynote, Pages, and Numbers)
+
+---
+## Code
+
+- HTML 5
+- CSS/CSS3/SCSS
+- JavaScript/Ajax
+- jQuery
+- Bootstrap
+- Jekyll/Liquid
+- XHTML
+- MAMP
+- Docker
+- SEO Best Practices
+
+---
+## References
+
+- Drupal
+- WordPress
+- BigCommerce
+- Shopify
+- SendGrid
+- Google (Analytics, Ads, Webmaster)
+- Meta Business Suite
+- Hotjar
+- Hootsuite
+
+---
 ## References
 
 
