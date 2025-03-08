@@ -73,6 +73,7 @@ Created dynamic work including: print, web, environmental signage, corporate ide
 ---
 ## References
 
+Available upon request.
 
 ---
 ## Education
