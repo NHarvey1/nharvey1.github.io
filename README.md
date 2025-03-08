@@ -2,8 +2,8 @@
 ---
 ## Work Experience
 
-**PowerON Services, Inc / Roseville, CA / Dec. 2014 - Present**
-
+**PowerON Services, Inc / Roseville, CA**  
+**Dec. 2014 - Present**  
 **Marketing Manager (& so much more...)**
 
 Primary responsibilities include software project management, new business development, existing account management, and marketing for PowerON Services, Inc.
