@@ -33,6 +33,6 @@ Created dynamic work including: print, web, environmental signage, corporate ide
 
 ---
 ## Education
-Bachelor of Fine Arts
-Graphic Design (1999)
-University of Tennessee, Knoxville
+Bachelor of Fine Arts  
+Graphic Design (1999)  
+University of Tennessee, Knoxville  
