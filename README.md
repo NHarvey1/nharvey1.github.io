@@ -58,7 +58,7 @@ Created dynamic work including: print, web, environmental signage, corporate ide
 - SEO Best Practices
 
 ---
-## References
+## Platforms
 
 - Drupal
 - WordPress
